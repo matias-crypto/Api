@@ -1,0 +1,19 @@
+{
+  "name": "api-basica-futbolistas",
+  "version": "1.0.0",
+  "description": "Una API básica que proporciona una lista de futbolistas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "futbolistas"
+  ],
+  "author": "matias-crypto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
